@@ -31,6 +31,6 @@ The internet. I needed to find other examples of devs using placeholder arrays a
 Screenshot of the deployed application
 ![Screen Shot 2021-06-26 at 2 28 14 PM](https://user-images.githubusercontent.com/50683782/123526166-d9a17480-d68a-11eb-9961-91c4475b9883.png)
 
-URL of the deployed application -->
-URL of the GitHub repository -->
+URL of the deployed application --> https://joeyfitz.github.io/PasswordGenerator/index.html
+URL of the GitHub repository --> https://github.com/JoeyFitz/PasswordGenerator
 
